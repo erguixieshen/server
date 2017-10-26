@@ -7492,8 +7492,8 @@ ER_SP_STACK_TRACE
         eng "At line %u in %s"
 ER_NOT_SINGLE_ELEMENT_ORDER_LIST
         eng "Incorrect number of elements in the order list for '%s'"
-ER_WRONG_TYPE_FOR_PERCENTILE_CONT
-        eng "Numeric datatype is required for Percentile_CONT function"
+ER_WRONG_TYPE_FOR_PERCENTILE_FUNC
+        eng "Numeric datatype is required for %s function"
 ER_ARGUMENT_NOT_CONSTANT
         eng "Argument to the percentile functions is not a constant"
 ER_ARGUMENT_OUT_OF_RANGE
